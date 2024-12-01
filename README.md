@@ -1,2 +1,2 @@
-# Snake-Game_js-html
+# Snake Game
 Open .html file to play
